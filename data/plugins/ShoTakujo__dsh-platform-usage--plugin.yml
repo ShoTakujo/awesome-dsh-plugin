@@ -1,5 +1,5 @@
-url: https://github.com/ShoTakujo/dsh-platform-usage
-name: ShoTakujo/dsh-platform-usage
+url: https://github.com/ShoTakujo/dsh-platform-usage/tree/main/plugin
+name: ShoTakujo/dsh-platform-usage#plugin
 category: usage
 description:
   en: Account-level DeepSeek platform usage inside the DSH settings page — 52-week token heatmap, per-API-key and per-model breakdown, live balance.
